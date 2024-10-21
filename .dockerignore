@@ -1,0 +1,6 @@
+target
+.env
+.gitignore
+shell.nix
+Dockerfile
+docker-compose.yaml
